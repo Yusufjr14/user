@@ -1,8 +1,3 @@
-# DB Importer whitelist
-# Satu username / npwshut per baris
-# Baris kosong diabaikan
-# Komentar pakai tanda #
-
 OPR-SINDO
 UM-SINDO
 OPR-INDEXIM
